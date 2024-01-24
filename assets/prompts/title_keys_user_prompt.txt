@@ -1,0 +1,11 @@
+Please extract the slide titles and key points from the following lecture slides.  Be concise, only develop key points that are novel to you, otherwise a simple reference suffice.
+
+SLIDE CONTENT:
+<< CONTENT >>
+
+Your output should follow the following format.
+
+OUTPUT FORMAT:
+Title: {insert title}
+- {key point 1}
+- {key point 2}

@@ -1,0 +1,20 @@
+Generate flashcards for the key points of the following slide content such that:
+- The question format of choice should be multiple choices questions.  
+- Questions should always contain enough context to stand on their own (the student do not have access to the slide content when answering question).
+
+Some slide are not relevant for flashcard generation (e.g. empty slide, course outline slide, section title slides, etc). For those slide, the output should be "No relevant content.".
+
+SLIDE CONTENT:
+<< CONTENT >>
+
+Your output should follow the following format. 
+
+OUTPUT FORMAT:
+Q: {Question}
+a) {Choice A}
+b) {Choice B}
+c) {Choice C}
+d) {Choice D}
+A: {Answer}
+E: {Extra information and context}
+T: {Tags}
